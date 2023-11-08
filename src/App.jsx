@@ -17,9 +17,7 @@ function App() {
       <Productivity />
       <Testimonials />
       <EarlyAccess />
-      <footer>
-        <Footer />
-      </footer>
+      <Footer />
     </div>
   );
 }
