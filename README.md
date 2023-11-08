@@ -2,8 +2,6 @@
 
 This is my solution to the Fylo Dark Theme Landing Page Challenge from Frontend Mentor. The challenge involves creating a responsive landing page with a dark theme based on the provided design.
 
-![Fylo Dark Theme Landing Page](screenshot.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
